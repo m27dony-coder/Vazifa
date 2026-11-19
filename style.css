@@ -1,0 +1,210 @@
+body {
+    margin: 0;
+    padding: 0;
+    
+}
+
+.blook-1{
+    padding-top: 30px;
+    padding-bottom: 164px;
+    background-color: #000;
+}
+.glint{
+    margin-left: 25px;
+    float: left;
+    color: #fff;
+}
+.menu{
+    margin-right: 35px;
+    float: right;
+    color: #fff;
+}
+
+.welcome{
+    padding-top:200px;
+    padding-left: 350px;
+    color: #8b8b8b;
+}
+
+.h1{
+    font-size: 75px;
+    padding-left: 350px;
+    color: #fff;
+}
+
+button{
+    margin-top: 20px;
+    padding: 15px;
+    font-size: 17px;
+    color: #fff;
+    background-color: #000;
+
+}
+
+.button-1,.button-2{    
+    padding-left: 40px;
+    padding-right: 40px;
+}
+
+.button-1{
+    margin-left:350px;
+}
+
+.button-2{
+     margin-left:20px;
+}
+
+.blook-2{
+    padding-top: 120px;
+    padding-bottom: 120px;
+    background-color: rgb(57, 181, 74);
+}
+
+.blook-2-h3, .blook-2-h1, .blook-2-p{
+     text-align: center;
+}
+
+.blook-2-h3{
+    font-size: 16px;
+    color: #000;
+    margin-bottom: 10px;
+}
+
+.blook-2-h1{
+    font-size: 75px;
+    color: #000;
+    margin-top: 0;
+    margin-bottom: 30px;
+}
+
+.blook-2-chiziq{
+    width: 450px;
+    border: 1px solid rgba(255, 255, 255, 0.25);
+    margin: 0 auto 30px auto;
+}
+
+.blook-2-p{
+    font-size: 22px;
+    color: #000;
+    margin-bottom: 60px;
+}
+
+.raqamlar{
+    width: 1000px;
+    margin: 0 auto;
+}
+
+.raqam-quti, .raqam-quti-oxirgi{
+    float: left;
+    width: 24%;
+    text-align: center;
+}
+
+.raqam-quti{
+    border-right: 1px solid rgba(255, 255, 255, 0.25);
+}
+
+.raqam{
+    font-size: 75px;
+    color: #000;
+    margin: 0;
+}
+
+.raqam-matn{
+    font-size: 17px;
+    color: #000;
+    margin-top: 10px;
+}
+
+.tozala{
+    clear: both;
+}
+
+.blook-3{
+    padding-top: 120px;
+    padding-bottom: 120px;
+    background-color: #151515;
+}
+
+.blook-3-h3{
+    text-align: center;
+    font-size: 16px;
+    color: rgb(57, 181, 74);
+    margin-bottom: 10px;
+}
+
+.blook-3-h1{
+    text-align: center;
+    font-size: 50px;
+    color: #fff;
+    margin-top: 0;
+    margin-bottom: 50px;
+}
+
+.aloqa-quti{
+    width: 900px;
+    margin: 0 auto;
+    background-color: #111;
+}
+
+.aloqa-chap{
+    float: left;
+    width: 55%;
+    padding: 40px;
+}
+
+.aloqa-ong{
+    float: right;
+    width: 28%;
+    padding: 40px;
+    background-color: #0d0d0d;
+}
+
+.aloqa-sarlavha{
+    color: #fff;
+    font-size: 14px;
+    margin-top: 0;
+    margin-bottom: 30px;
+}
+
+.aloqa-kiritish, .aloqa-xabar{
+    width: 100%;
+    background-color: #111;
+    color: #fff;
+    border: none;
+    border-bottom: 1px solid #333;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    margin-bottom: 20px;
+    font-size: 15px;
+}
+
+.aloqa-xabar{
+    height: 150px;
+}
+
+.yuborish-tugma{
+    width: 100%;
+    background-color: rgb(57, 181, 74);
+    color: #fff;
+    border: none;
+    padding: 15px;
+    font-size: 15px;
+}
+
+.malumot-quti{
+    margin-bottom: 30px;
+}
+
+.malumot-sarlavha{
+    color: rgb(57, 181, 74);
+    font-size: 16px;
+    margin-top: 0;
+    margin-bottom: 10px;
+}
+
+.malumot-matn{
+    color: #8b8b8b;
+    font-size: 15px;
+    margin: 0;
+}
